@@ -24,7 +24,9 @@
             Grid.Row="1"
             FontSize="36"
             Click="Button_Click"
-            Content="Launch">
+            Content="Launch"
+            Background="Blue"
+            Foreground="White">
         </Button>
         <Label x:Name="output"> </Label>
         <Label 
