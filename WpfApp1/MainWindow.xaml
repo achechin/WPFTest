@@ -25,7 +25,8 @@
             FontSize="36"
             Click="Button_Click"
             Content="Launch"
-            Background="Red">
+            Background="Red"
+            Foreground="White">
         </Button>
         <Label x:Name="output"> </Label>
         <Label 
